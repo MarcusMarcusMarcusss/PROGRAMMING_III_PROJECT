@@ -1,0 +1,100 @@
+C:\Users\xiemark52\source\repos\MusicPlayer_Project\MusicPlayer_Project\bin\Debug\MusicPlayer_Project.exe.config
+C:\Users\xiemark52\source\repos\MusicPlayer_Project\MusicPlayer_Project\bin\Debug\MusicPlayer_Project.exe
+C:\Users\xiemark52\source\repos\MusicPlayer_Project\MusicPlayer_Project\bin\Debug\MusicPlayer_Project.pdb
+C:\Users\xiemark52\source\repos\MusicPlayer_Project\MusicPlayer_Project\obj\Debug\MusicPlayer_Project.MoeMusicPlayer.resources
+C:\Users\xiemark52\source\repos\MusicPlayer_Project\MusicPlayer_Project\obj\Debug\MusicPlayer_Project.Properties.Resources.resources
+C:\Users\xiemark52\source\repos\MusicPlayer_Project\MusicPlayer_Project\obj\Debug\MusicPlayer_Project.csproj.GenerateResource.cache
+C:\Users\xiemark52\source\repos\MusicPlayer_Project\MusicPlayer_Project\obj\Debug\MusicPlayer_Project.csproj.CoreCompileInputs.cache
+C:\Users\xiemark52\source\repos\MusicPlayer_Project\MusicPlayer_Project\obj\Debug\MusicPlayer_Project.exe
+C:\Users\xiemark52\source\repos\MusicPlayer_Project\MusicPlayer_Project\obj\Debug\MusicPlayer_Project.pdb
+C:\Users\xiemark52\source\repos\MusicPlayer_Project\MusicPlayer_Project\obj\Debug\MusicPlayer_Project.Login.resources
+C:\Users\xiemark52\source\repos\MusicPlayer_Project\MusicPlayer_Project\obj\Debug\MusicPlayer_Project.csprojAssemblyReference.cache
+C:\Users\xiemark52\source\repos\MusicPlayer_Project\MusicPlayer_Project\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\xiemark52\source\repos\MusicPlayer_Project\MusicPlayer_Project\bin\Debug\Google.Protobuf.dll
+C:\Users\xiemark52\source\repos\MusicPlayer_Project\MusicPlayer_Project\bin\Debug\MySql.Data.dll
+C:\Users\xiemark52\source\repos\MusicPlayer_Project\MusicPlayer_Project\bin\Debug\Renci.SshNet.dll
+C:\Users\xiemark52\source\repos\MusicPlayer_Project\MusicPlayer_Project\bin\Debug\Google.Protobuf.xml
+C:\Users\xiemark52\source\repos\MusicPlayer_Project\MusicPlayer_Project\bin\Debug\MySql.Data.xml
+C:\Users\xiemark52\source\repos\MusicPlayer_Project\MusicPlayer_Project\bin\Debug\Renci.SshNet.xml
+C:\Users\xiemark52\source\repos\MusicPlayer_Project\MusicPlayer_Project\obj\Debug\MusicPlayer_Project.csproj.CopyComplete
+C:\Users\xiemark52\source\repos\MusicPlayer_Project\MusicPlayer_Project\bin\Debug\Interop.WMPLib.dll
+C:\Users\xiemark52\source\repos\MusicPlayer_Project\MusicPlayer_Project\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\xiemark52\source\repos\MusicPlayer_Project\MusicPlayer_Project\obj\Debug\Interop.WMPLib.dll
+C:\Users\xiemark52\source\repos\MusicPlayer_Project\MusicPlayer_Project\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\xiemark52\source\repos\MusicPlayer_Project\MusicPlayer_Project\obj\Debug\MusicPlayer_Project.csproj.ResolveComReference.cache
+E:\Programming\Project\MusicPlayer_Project\MusicPlayer_Project\bin\Debug\MusicPlayer_Project.exe.config
+E:\Programming\Project\MusicPlayer_Project\MusicPlayer_Project\bin\Debug\MusicPlayer_Project.exe
+E:\Programming\Project\MusicPlayer_Project\MusicPlayer_Project\bin\Debug\MusicPlayer_Project.pdb
+E:\Programming\Project\MusicPlayer_Project\MusicPlayer_Project\bin\Debug\BouncyCastle.Crypto.dll
+E:\Programming\Project\MusicPlayer_Project\MusicPlayer_Project\bin\Debug\Google.Protobuf.dll
+E:\Programming\Project\MusicPlayer_Project\MusicPlayer_Project\bin\Debug\MySql.Data.dll
+E:\Programming\Project\MusicPlayer_Project\MusicPlayer_Project\bin\Debug\Renci.SshNet.dll
+E:\Programming\Project\MusicPlayer_Project\MusicPlayer_Project\bin\Debug\Google.Protobuf.xml
+E:\Programming\Project\MusicPlayer_Project\MusicPlayer_Project\bin\Debug\MySql.Data.xml
+E:\Programming\Project\MusicPlayer_Project\MusicPlayer_Project\bin\Debug\Renci.SshNet.xml
+E:\Programming\Project\MusicPlayer_Project\MusicPlayer_Project\bin\Debug\Interop.WMPLib.dll
+E:\Programming\Project\MusicPlayer_Project\MusicPlayer_Project\bin\Debug\AxInterop.WMPLib.dll
+E:\Programming\Project\MusicPlayer_Project\MusicPlayer_Project\obj\Debug\MusicPlayer_Project.csprojAssemblyReference.cache
+E:\Programming\Project\MusicPlayer_Project\MusicPlayer_Project\obj\Debug\Interop.WMPLib.dll
+E:\Programming\Project\MusicPlayer_Project\MusicPlayer_Project\obj\Debug\AxInterop.WMPLib.dll
+E:\Programming\Project\MusicPlayer_Project\MusicPlayer_Project\obj\Debug\MusicPlayer_Project.csproj.ResolveComReference.cache
+E:\Programming\Project\MusicPlayer_Project\MusicPlayer_Project\obj\Debug\MusicPlayer_Project.Login.resources
+E:\Programming\Project\MusicPlayer_Project\MusicPlayer_Project\obj\Debug\MusicPlayer_Project.MoeMusicPlayer.resources
+E:\Programming\Project\MusicPlayer_Project\MusicPlayer_Project\obj\Debug\MusicPlayer_Project.Properties.Resources.resources
+E:\Programming\Project\MusicPlayer_Project\MusicPlayer_Project\obj\Debug\MusicPlayer_Project.csproj.GenerateResource.cache
+E:\Programming\Project\MusicPlayer_Project\MusicPlayer_Project\obj\Debug\MusicPlayer_Project.csproj.CoreCompileInputs.cache
+E:\Programming\Project\MusicPlayer_Project\MusicPlayer_Project\obj\Debug\MusicPlayer_Project.csproj.CopyComplete
+E:\Programming\Project\MusicPlayer_Project\MusicPlayer_Project\obj\Debug\MusicPlayer_Project.exe
+E:\Programming\Project\MusicPlayer_Project\MusicPlayer_Project\obj\Debug\MusicPlayer_Project.pdb
+F:\Programming\Project\MusicPlayer_Project\MusicPlayer_Project\bin\Debug\MusicPlayer_Project.exe.config
+F:\Programming\Project\MusicPlayer_Project\MusicPlayer_Project\bin\Debug\MusicPlayer_Project.exe
+F:\Programming\Project\MusicPlayer_Project\MusicPlayer_Project\bin\Debug\MusicPlayer_Project.pdb
+F:\Programming\Project\MusicPlayer_Project\MusicPlayer_Project\bin\Debug\BouncyCastle.Crypto.dll
+F:\Programming\Project\MusicPlayer_Project\MusicPlayer_Project\bin\Debug\Google.Protobuf.dll
+F:\Programming\Project\MusicPlayer_Project\MusicPlayer_Project\bin\Debug\MySql.Data.dll
+F:\Programming\Project\MusicPlayer_Project\MusicPlayer_Project\bin\Debug\Renci.SshNet.dll
+F:\Programming\Project\MusicPlayer_Project\MusicPlayer_Project\bin\Debug\Google.Protobuf.xml
+F:\Programming\Project\MusicPlayer_Project\MusicPlayer_Project\bin\Debug\MySql.Data.xml
+F:\Programming\Project\MusicPlayer_Project\MusicPlayer_Project\bin\Debug\Renci.SshNet.xml
+F:\Programming\Project\MusicPlayer_Project\MusicPlayer_Project\bin\Debug\Interop.WMPLib.dll
+F:\Programming\Project\MusicPlayer_Project\MusicPlayer_Project\bin\Debug\AxInterop.WMPLib.dll
+F:\Programming\Project\MusicPlayer_Project\MusicPlayer_Project\obj\Debug\MusicPlayer_Project.csprojAssemblyReference.cache
+F:\Programming\Project\MusicPlayer_Project\MusicPlayer_Project\obj\Debug\Interop.WMPLib.dll
+F:\Programming\Project\MusicPlayer_Project\MusicPlayer_Project\obj\Debug\AxInterop.WMPLib.dll
+F:\Programming\Project\MusicPlayer_Project\MusicPlayer_Project\obj\Debug\MusicPlayer_Project.csproj.ResolveComReference.cache
+F:\Programming\Project\MusicPlayer_Project\MusicPlayer_Project\obj\Debug\MusicPlayer_Project.Login.resources
+F:\Programming\Project\MusicPlayer_Project\MusicPlayer_Project\obj\Debug\MusicPlayer_Project.MoeMusicPlayer.resources
+F:\Programming\Project\MusicPlayer_Project\MusicPlayer_Project\obj\Debug\MusicPlayer_Project.Properties.Resources.resources
+F:\Programming\Project\MusicPlayer_Project\MusicPlayer_Project\obj\Debug\MusicPlayer_Project.csproj.GenerateResource.cache
+F:\Programming\Project\MusicPlayer_Project\MusicPlayer_Project\obj\Debug\MusicPlayer_Project.csproj.CoreCompileInputs.cache
+F:\Programming\Project\MusicPlayer_Project\MusicPlayer_Project\obj\Debug\MusicPlayer_Project.csproj.CopyComplete
+F:\Programming\Project\MusicPlayer_Project\MusicPlayer_Project\obj\Debug\MusicPlayer_Project.exe
+F:\Programming\Project\MusicPlayer_Project\MusicPlayer_Project\obj\Debug\MusicPlayer_Project.pdb
+E:\Programming\Project\MusicPlayer_Project\MusicPlayer_Project\bin\Debug\System.ValueTuple.dll
+E:\Programming\Project\MusicPlayer_Project\MusicPlayer_Project\bin\Debug\System.ValueTuple.xml
+C:\Users\p447119\OneDrive - TAFE\Documents\Project_programming\MusicPlayer_Project\MusicPlayer_Project\bin\Debug\MusicPlayer_Project.exe.config
+C:\Users\p447119\OneDrive - TAFE\Documents\Project_programming\MusicPlayer_Project\MusicPlayer_Project\bin\Debug\MusicPlayer_Project.exe
+C:\Users\p447119\OneDrive - TAFE\Documents\Project_programming\MusicPlayer_Project\MusicPlayer_Project\bin\Debug\MusicPlayer_Project.pdb
+C:\Users\p447119\OneDrive - TAFE\Documents\Project_programming\MusicPlayer_Project\MusicPlayer_Project\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\p447119\OneDrive - TAFE\Documents\Project_programming\MusicPlayer_Project\MusicPlayer_Project\bin\Debug\Google.Protobuf.dll
+C:\Users\p447119\OneDrive - TAFE\Documents\Project_programming\MusicPlayer_Project\MusicPlayer_Project\bin\Debug\MySql.Data.dll
+C:\Users\p447119\OneDrive - TAFE\Documents\Project_programming\MusicPlayer_Project\MusicPlayer_Project\bin\Debug\Renci.SshNet.dll
+C:\Users\p447119\OneDrive - TAFE\Documents\Project_programming\MusicPlayer_Project\MusicPlayer_Project\bin\Debug\System.ValueTuple.dll
+C:\Users\p447119\OneDrive - TAFE\Documents\Project_programming\MusicPlayer_Project\MusicPlayer_Project\bin\Debug\Google.Protobuf.xml
+C:\Users\p447119\OneDrive - TAFE\Documents\Project_programming\MusicPlayer_Project\MusicPlayer_Project\bin\Debug\MySql.Data.xml
+C:\Users\p447119\OneDrive - TAFE\Documents\Project_programming\MusicPlayer_Project\MusicPlayer_Project\bin\Debug\Renci.SshNet.xml
+C:\Users\p447119\OneDrive - TAFE\Documents\Project_programming\MusicPlayer_Project\MusicPlayer_Project\bin\Debug\System.ValueTuple.xml
+C:\Users\p447119\OneDrive - TAFE\Documents\Project_programming\MusicPlayer_Project\MusicPlayer_Project\bin\Debug\Interop.WMPLib.dll
+C:\Users\p447119\OneDrive - TAFE\Documents\Project_programming\MusicPlayer_Project\MusicPlayer_Project\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\p447119\OneDrive - TAFE\Documents\Project_programming\MusicPlayer_Project\MusicPlayer_Project\obj\Debug\MusicPlayer_Project.csprojAssemblyReference.cache
+C:\Users\p447119\OneDrive - TAFE\Documents\Project_programming\MusicPlayer_Project\MusicPlayer_Project\obj\Debug\Interop.WMPLib.dll
+C:\Users\p447119\OneDrive - TAFE\Documents\Project_programming\MusicPlayer_Project\MusicPlayer_Project\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\p447119\OneDrive - TAFE\Documents\Project_programming\MusicPlayer_Project\MusicPlayer_Project\obj\Debug\MusicPlayer_Project.csproj.ResolveComReference.cache
+C:\Users\p447119\OneDrive - TAFE\Documents\Project_programming\MusicPlayer_Project\MusicPlayer_Project\obj\Debug\MusicPlayer_Project.Login.resources
+C:\Users\p447119\OneDrive - TAFE\Documents\Project_programming\MusicPlayer_Project\MusicPlayer_Project\obj\Debug\MusicPlayer_Project.MoeMusicPlayer.resources
+C:\Users\p447119\OneDrive - TAFE\Documents\Project_programming\MusicPlayer_Project\MusicPlayer_Project\obj\Debug\MusicPlayer_Project.Properties.Resources.resources
+C:\Users\p447119\OneDrive - TAFE\Documents\Project_programming\MusicPlayer_Project\MusicPlayer_Project\obj\Debug\MusicPlayer_Project.csproj.GenerateResource.cache
+C:\Users\p447119\OneDrive - TAFE\Documents\Project_programming\MusicPlayer_Project\MusicPlayer_Project\obj\Debug\MusicPlayer_Project.csproj.CoreCompileInputs.cache
+C:\Users\p447119\OneDrive - TAFE\Documents\Project_programming\MusicPlayer_Project\MusicPlayer_Project\obj\Debug\MusicPlayer_Project.csproj.CopyComplete
+C:\Users\p447119\OneDrive - TAFE\Documents\Project_programming\MusicPlayer_Project\MusicPlayer_Project\obj\Debug\MusicPlayer_Project.exe
+C:\Users\p447119\OneDrive - TAFE\Documents\Project_programming\MusicPlayer_Project\MusicPlayer_Project\obj\Debug\MusicPlayer_Project.pdb
